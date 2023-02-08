@@ -12,5 +12,4 @@
 11.listing
 12.filetype
 13.creating a symbolic link
-
-
+14.moving html files
