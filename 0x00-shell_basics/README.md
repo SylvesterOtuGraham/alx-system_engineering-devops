@@ -1,5 +1,6 @@
-Display the contents list of your current directory
-Prints the absolute path name of the current working directory
-change current directory to users home directory
-Display current directory contents in a long format
-Display current directory contents, including hidden files (starting with .). Use the long format. 
+0.Prints the absolute path name of the current working directory
+1.Display the contents list of your current directory
+2.change current directory to users home directory
+3.Display current directory contents in a long format
+4.Display current directory contents, including hidden files (starting with .) usethe long format
+5.Display current directory contents.
