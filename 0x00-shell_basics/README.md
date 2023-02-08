@@ -15,3 +15,5 @@
 14.moving html files
 15.moving upper case files
 16.deleting files
+
+18.listing files by commas
