@@ -6,4 +6,5 @@
 5.Display current directory contents.
 6.make directory in another directory
 7.move a file to a directory
+8.delete file
 
