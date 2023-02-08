@@ -11,4 +11,6 @@
 10.move back a directory
 11.listing
 12.filetype
+13.creating a symbolic link
+
 
