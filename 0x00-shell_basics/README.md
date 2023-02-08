@@ -4,3 +4,5 @@
 3.Display current directory contents in a long format
 4.Display current directory contents, including hidden files (starting with .) usethe long format
 5.Display current directory contents.
+6.make directori in another directory
+
