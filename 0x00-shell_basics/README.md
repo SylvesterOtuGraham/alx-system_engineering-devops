@@ -17,3 +17,4 @@
 16.deleting files
 17.creating directories 
 18.listing files by commas
+19.magic file
