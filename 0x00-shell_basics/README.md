@@ -10,4 +10,5 @@
 9.delete directory from another directory
 10.move back a directory
 11.listing
+12.filetype
 
