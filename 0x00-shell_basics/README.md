@@ -7,4 +7,5 @@
 6.make directory in another directory
 7.move a file to a directory
 8.delete file
+9.delete directory from another directory
 
