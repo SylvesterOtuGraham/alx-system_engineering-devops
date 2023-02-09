@@ -8,3 +8,4 @@
 7.multiple permission
 8.multiple permission
 9.set the mode
+10.set mode
