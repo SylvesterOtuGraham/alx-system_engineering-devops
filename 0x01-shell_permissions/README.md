@@ -10,3 +10,4 @@
 9.set the mode
 10.set modie
 11.permission
+12.directory
