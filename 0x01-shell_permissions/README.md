@@ -4,3 +4,5 @@
 3.change owner
 4.empty file
 5.adds execution
+6.permission
+
