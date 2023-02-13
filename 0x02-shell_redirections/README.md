@@ -13,3 +13,4 @@
 12.display new line0s
 13.sorting
 14.grep
+15.pattern
