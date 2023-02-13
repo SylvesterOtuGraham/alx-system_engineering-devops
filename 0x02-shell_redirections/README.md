@@ -7,3 +7,4 @@
 6.specific line
 7.file
 8.STandard output
+9.duplicate line
