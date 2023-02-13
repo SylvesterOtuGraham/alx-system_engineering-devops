@@ -18,3 +18,4 @@
 17.hidden
 18.letteronly
 19.letters
+20.removable
