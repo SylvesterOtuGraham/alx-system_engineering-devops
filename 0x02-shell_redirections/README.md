@@ -16,3 +16,4 @@
 15.pattern
 16.grep pattern
 17.hidden
+18.letteronly
