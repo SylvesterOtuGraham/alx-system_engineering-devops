@@ -10,3 +10,4 @@
 9.duplicate line
 10.no more java
 11.counting directories
+12.display new lines
