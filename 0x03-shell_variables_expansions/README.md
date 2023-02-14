@@ -5,3 +5,4 @@
 4.printing environment variables
 5.local variables
 6.create a local variable
+7.global variable
