@@ -6,3 +6,4 @@
 5.local variables
 6.create a local variable
 7.global variable
+8.addition
