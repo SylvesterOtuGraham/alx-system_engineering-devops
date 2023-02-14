@@ -10,3 +10,4 @@
 9.addition of varial
 10.exponente
 11.bases
+12.combination
