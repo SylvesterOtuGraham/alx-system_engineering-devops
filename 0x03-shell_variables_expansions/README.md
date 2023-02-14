@@ -8,5 +8,5 @@
 7.global variable
 8.addition
 9.addition of varial
-10.exponent
-e
+10.exponente
+11.bases
