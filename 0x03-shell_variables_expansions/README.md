@@ -7,4 +7,6 @@
 6.create a local variable
 7.global variable
 8.addition
-9.addition of variale
+9.addition of varial
+10.exponent
+e
