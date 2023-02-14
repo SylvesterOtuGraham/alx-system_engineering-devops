@@ -13,3 +13,4 @@
 12.combination
 13.decimals
 14.base
+15.encode
