@@ -11,3 +11,4 @@
 10.exponente
 11.bases
 12.combination
+13.decimals
