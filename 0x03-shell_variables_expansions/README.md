@@ -3,3 +3,4 @@
 2.last path
 3.counting directories
 4.printing environment variables
+5.local variables
