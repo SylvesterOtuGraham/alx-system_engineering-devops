@@ -14,3 +14,4 @@
 13.decimals
 14.base
 15.encode
+16.odd
